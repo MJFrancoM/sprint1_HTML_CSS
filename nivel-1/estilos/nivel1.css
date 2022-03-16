@@ -4,23 +4,18 @@
     height: 170px;
     margin: 20px;
 }
-.margin_first{
-    width: 1200px;
-    height: 1px;
-}
-.margin_second{
-    width: 1200px;
-    height: 10px;
-}
-.margin_third{
+.spacebox{
     width: 1200px;
     height: 20px;
+}
+.half_spacebox{
+    width: 1200px;
+    height: 10px;
 }
 .gray{
     background-color: #203239;
     width: 1160px;
     height: 60px;
-    margin-top: 20px;
     margin-left: 20px;
 }
 .padre{
@@ -31,28 +26,24 @@
     width: 200px;
     height: 20px;
     margin-left: 20px;
-    margin-bottom: 20px;
 }
 .coral_central{
     background-color: #9C0F48;
     width: 680px;
     height: 20px;
     margin-left: 20px;
-    margin-bottom: 20px;
 }
 .coral_right{
     background-color: #9C0F48;
     width: 200px;
     height: 20px;
     margin-left: 20px;
-    margin-bottom: 20px;
 }
 .orange{
     background-color: #E83A14;
     width: 1160px;
     height: 60px;
     margin-left: 20px;
-    margin-bottom: 20px;
 }
 .yellow{
     background-color: yellow;
@@ -64,7 +55,7 @@
     background-color:black;
     width: 1200px;
     height: 180px;
-    margin: 20px;
+    margin-left: 20px;
 }
 .blue{
     background-color: #084594;
@@ -101,7 +92,7 @@
     background-color:black;
     width: 1200px;
     height: 60px;
-    margin: 20px;
+    margin-left: 20px;
 }
 .yellow_final{
     background-color: yellow;

@@ -1,3 +1,6 @@
+.container{
+    overflow: hidden;
+}
 .blackbox_first{
     background-color:black;
     width: 1200px;
